@@ -4,7 +4,7 @@ require 'mechanize'
 
 starting_url = 'http://portal.pittwater.nsw.gov.au/Pages/XC.Track/SearchApplication.aspx?d=thismonth&k=LodgementDate&t=DevelopApp,S96Mod'
 comment_url = 'mailto:pittwater_council@pittwater.nsw.gov.au?subject='
-require 'pry'
+
 def clean_whitespace(a)
   a.gsub("\r", ' ').gsub("\n", ' ').squeeze(" ").strip
 end
