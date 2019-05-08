@@ -1,1 +1,1 @@
-Gets development applications for "Pittwater Council.":http://portal.pittwater.nsw.gov.au/internet/modules/TrackingDA
+This scraper has been replaced by https://github.com/planningalerts-scrapers/northern_beaches
